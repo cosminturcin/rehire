@@ -110,7 +110,9 @@
     </section>
 
     <section class="home-th">
-        <h3>Impressed? Become A Member Now! <a href="" class="btn pull-right">Sign up</a></h3>
+        <div class="container">
+            <h3>Impressed? Become A Member Now! <a href="" class="btn btn-large pull-right">Sign up</a></h3>
+        </div>
     </section>
 
     <?php include 'includes/footer.php' ; ?>
