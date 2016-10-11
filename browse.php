@@ -4,7 +4,7 @@
 
     <!-- Page Content -->
     <section class="browse-first">
-        <div class="container">sdfsdf</div>
+        <div class="container">sdfsddsff</div>
     </section>
     <!-- /.container -->
 
