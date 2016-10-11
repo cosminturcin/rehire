@@ -115,4 +115,47 @@
         </div>
     </section>
 
+    <section class="home-users text-center">
+        <div class="container">
+            <h3>Check Out Our Consultants</h3>
+            <div class="row users-cons">
+                <div class="col-sm-3 text-center">
+                    <div class="circle-img">
+                        <img class="img-responsive" src="img/user1.png" alt="">
+                    </div>
+                    <h4>Nicole</h4>
+                    <p>Consultant expert</p>
+                </div>
+                <div class="col-sm-3 text-center">
+                    <div class="circle-img">
+                        <img class="img-responsive" src="img/user2.png" alt="">
+                    </div>
+                    <h4>Bruce</h4>
+                    <p>Consultant expert</p>
+                </div>
+                <div class="col-sm-3 text-center">
+                    <div class="circle-img">
+                        <img class="img-responsive" src="img/user3.png" alt="">
+                    </div>
+                    <h4>Sharon</h4>
+                    <p>Consultant expert</p>
+                </div>
+                <div class="col-sm-3 text-center">
+                    <div class="circle-img">
+                        <img class="img-responsive" src="img/user4.png" alt="">
+                    </div>
+                    <h4>Raymond</h4>
+                    <p>Consultant expert</p>
+                </div>
+            </div>
+            <a href="browse.php" class="btn btn-large prm-hv transition mls15 minwidth200">See all</a>
+        </div>
+    </section>
+
+    <section class="subscribe text-center">
+        <h3>Subscribe To Our Newsletter</h3>
+        <input type="text" class="subscribe-inp" placeholder="Please enter your email adress">
+        <button class="btn secondary btn-large">Subscribe</button>
+    </section>
+
     <?php include 'includes/footer.php' ; ?>
